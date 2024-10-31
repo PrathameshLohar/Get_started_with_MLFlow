@@ -1,5 +1,6 @@
-aliases: {}
+aliases:
+  best: '3'
 creation_timestamp: 1730335078524
 description: ''
-last_updated_timestamp: 1730335719549
+last_updated_timestamp: 1730338177364
 name: tracking-quickstart

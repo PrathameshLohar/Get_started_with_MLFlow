@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847186107570381437/4d459dbf583842cf93d9b139806de6e8/artifacts
+end_time: 1730338067781
+entry_point_name: ''
+experiment_id: '847186107570381437'
+lifecycle_stage: active
+run_id: 4d459dbf583842cf93d9b139806de6e8
+run_name: serious-crab-526
+run_uuid: 4d459dbf583842cf93d9b139806de6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730338064134
+status: 3
+tags: []
+user_id: G3
