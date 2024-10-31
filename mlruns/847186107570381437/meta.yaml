@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/847186107570381437
+creation_time: 1730335069969
+experiment_id: '847186107570381437'
+last_update_time: 1730335069969
+lifecycle_stage: active
+name: Iris logistic model

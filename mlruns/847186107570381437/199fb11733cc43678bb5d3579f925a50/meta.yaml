@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847186107570381437/199fb11733cc43678bb5d3579f925a50/artifacts
+end_time: 1730335719725
+entry_point_name: ''
+experiment_id: '847186107570381437'
+lifecycle_stage: active
+run_id: 199fb11733cc43678bb5d3579f925a50
+run_name: fortunate-pig-254
+run_uuid: 199fb11733cc43678bb5d3579f925a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730335714244
+status: 3
+tags: []
+user_id: G3

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847186107570381437/5ced85d69b6b4a0d95e833098dfbc879/artifacts
+end_time: 1730335078981
+entry_point_name: ''
+experiment_id: '847186107570381437'
+lifecycle_stage: active
+run_id: 5ced85d69b6b4a0d95e833098dfbc879
+run_name: legendary-grouse-812
+run_uuid: 5ced85d69b6b4a0d95e833098dfbc879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730335070270
+status: 3
+tags: []
+user_id: G3
